@@ -12,5 +12,5 @@ Do ETL : Extract-Transform-Load some Amazon dataset and find Sales-trend -> mont
 wise , yearly month wise. Find key metrics and factors and show the meaningful relationships
 between attributes. Do your own research and come up with your findings.
 
-Dataet Link:
+Dataset Link:
 https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI
